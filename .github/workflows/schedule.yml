@@ -1,4 +1,4 @@
-name: Schedule Test
+
 
 on:
   schedule:
